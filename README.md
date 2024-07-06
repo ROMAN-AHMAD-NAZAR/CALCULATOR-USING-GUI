@@ -22,9 +22,8 @@ This is a simple calculator application with a graphical user interface (GUI). I
 1. **Clone the Repository**
 
    
-   git clone https://github.com/ROMAN-AHMAD/CALCULATOR-USING-GUI/calculator-gui-csharp.git
-   cd calculator-gui-csharp
-  
+   git clone https://github.com/ROMAN-AHMAD/CALCULATOR-USING-GUI
+
 
 2. **Open the Project in Visual Studio**
 
